@@ -11,7 +11,6 @@ This repository contains the code and documentation for exploring and analyzing 
 - [Life Expectancy Prediction](#life-expectancy-prediction)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [How to Run](#how-to-run)
 
 ## Introduction
 This project involves the application of mathematical methods for data analysis, including Singular Value Decomposition (SVD) for recommender systems, linear regression models for house price prediction, and various regression techniques for predicting life expectancy.
